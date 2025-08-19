@@ -1,5 +1,6 @@
-# 💫 About Me:
+# About Me:
 
+Halooww! I'm Satria,
 I'm Currently intern at PT Kaltim Prima Coal as Apps Developer
 
 ## 🌐 Socials:
