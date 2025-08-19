@@ -1,4 +1,4 @@
-![Satria](./github-header-banner.png)
+![Satria](<./github-header-banner%20(1).png>)
 
 ## I'm Currently intern at PT Kaltim Prima Coal as Apps Developer
 
