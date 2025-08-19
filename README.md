@@ -1,7 +1,6 @@
-# About Me:
-
 ![Satria](./github-header-banner.png)
-I'm Currently intern at PT Kaltim Prima Coal as Apps Developer
+
+## I'm Currently intern at PT Kaltim Prima Coal as Apps Developer
 
 ## 🌐 Socials:
 
