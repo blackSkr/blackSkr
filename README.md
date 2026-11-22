@@ -1,6 +1,6 @@
 ![Satria](<./github-header-banner%20(1).png>)
 
-## I'm Currently intern at PT Kaltim Prima Coal as Apps Developer
+## I'm Currently intern at Balai Keselematan dan Kesehatan Kerja kota Samarinda as AI Engineer - Maganghub
 
 ## 🌐 Socials:
 
